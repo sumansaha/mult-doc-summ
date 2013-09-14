@@ -1,15 +1,15 @@
-multi-doc-summarization
-=======================
+Multi-documents Summarization
+==============================
 
-Query Based Multi Document Summarization using Genetic Algorithms
+Query Focused Multi-Documents Summarization using Genetic Algorithms(GAs)
 
 This project was made as a final year project for B. Tech. in Computer Science and Engineering from
-Governement College of Engineering and Ceramic Technology, Kolkata uder West Bengal University of Technology.
+Government College of Engineering and Ceramic Technology, Kolkata under West Bengal University of Technology.
 
 Original Contributors:
 
 1. Suman Saha (suman.saha51@live.com)
-2. Pritam Roy
+2. Pritam Roy (roy.prit@yahoo.co.in)
 3. Saurav Das
 4. Sourav Ghosh
 
